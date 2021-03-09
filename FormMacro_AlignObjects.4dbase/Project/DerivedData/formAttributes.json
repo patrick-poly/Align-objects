@@ -1,0 +1,16 @@
+{
+	"forms": {
+		"Formulaire1": {
+			"timeStamp": "2021-03-09T10:17:47.433Z",
+			"destination": "detailScreen"
+		},
+		"Formulaire2": {
+			"timeStamp": "2020-07-15T14:27:03.315Z",
+			"destination": "detailScreen"
+		},
+		"Formulaire3": {
+			"timeStamp": "2020-07-15T13:10:28.712Z",
+			"destination": "detailScreen"
+		}
+	}
+}

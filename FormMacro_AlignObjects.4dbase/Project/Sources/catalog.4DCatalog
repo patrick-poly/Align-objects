@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="FormMacro_AlignObjects" uuid="F5B8F34FD75FB541BB2BDB08454B4144" collation_locale="fr">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra __stringCompHash="icu:63.1.0" __keywordBuildingHash="icu:63.1.0"/>
+</base>

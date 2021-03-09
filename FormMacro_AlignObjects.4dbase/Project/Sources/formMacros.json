@@ -1,0 +1,20 @@
+{
+  "macros": {
+    "Align Left": {
+      "class": "FormMacro_Align",
+      "align": "left"
+    },
+    "Align Right": {
+      "class": "FormMacro_Align",
+      "align": "right"
+    },
+    "Align Top": {
+      "class": "FormMacro_Align",
+      "align": "top"
+    },
+    "Align Bottom": {
+      "class": "FormMacro_Align",
+      "align": "bottom"
+    }
+  }
+}

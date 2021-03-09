@@ -1,0 +1,101 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad",
+		"onPageChange",
+		"onValidate",
+		"onClick",
+		"onDoubleClick",
+		"onOutsideCall",
+		"onBeginDragOver",
+		"onDragOver",
+		"onDrop",
+		"onAfterKeystroke",
+		"onMenuSelect",
+		"onPluginArea",
+		"onAfterEdit",
+		"onTimer",
+		"onBoundVariableChange"
+	],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Bouton": {
+					"type": "button",
+					"text": "Button",
+					"top": 218,
+					"left": 205,
+					"width": 182,
+					"height": 136,
+					"events": [
+						"onClick"
+					]
+				},
+				"Bouton1": {
+					"type": "button",
+					"text": "Button",
+					"top": 102,
+					"left": 361,
+					"width": 174,
+					"height": 146,
+					"events": [
+						"onClick"
+					]
+				},
+				"Bouton2": {
+					"type": "button",
+					"text": "Button",
+					"top": 77,
+					"left": 29,
+					"width": 104,
+					"height": 64,
+					"events": [
+						"onClick"
+					]
+				},
+				"Bouton3": {
+					"type": "button",
+					"text": "Button",
+					"top": 157,
+					"left": 29,
+					"width": 98,
+					"height": 36,
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		}
+	],
+	"geometryStamp": 22,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {},
+			"View 2": {},
+			"View 3": {
+				"objects": [
+					"Bouton",
+					"Bouton1"
+				]
+			}
+		}
+	}
+}
